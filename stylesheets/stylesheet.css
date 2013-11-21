@@ -64,9 +64,9 @@ a:hover {
 }
 
 header {
-  padding-top: 40px;
-  padding-bottom: 40px;
-  font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif; 
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-family: 'Permanent Marker', 'Helvetica Neue', Helvetica, Arial, serif; 
   background: #2e7bcf url(../images/header-bg.jpg) 0 0 repeat-x;
   border-bottom: solid 1px #275da1;
 }
@@ -126,6 +126,19 @@ aside#sidebar p.repo-owner a {
 
 #downloads {
   margin-bottom: 40px;
+}
+
+.social-icons {
+  padding-left: 20px;
+}
+
+img.social {
+  width: 32px; 
+  height: auto;
+}
+
+#sidebar-links li {
+  list-style-type: none;
 }
 
 a.button {
