@@ -48,7 +48,7 @@ table {
 
 /* LAYOUT STYLES */
 body {
-  font-size: 15px;
+  font-size: 20px;
   line-height: 1.5; 
   background: #fafafa url(../images/body-bg.jpg) 0 0 repeat;
   font-family: 'Helvetica Neue', Helvetica, Arial, serif;
@@ -139,6 +139,7 @@ img.social {
 
 #sidebar-links li {
   list-style-type: none;
+  font-size: 16px;
 }
 
 a.button {
